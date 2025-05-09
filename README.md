@@ -1,3 +1,9 @@
+# Team GenRetrievers
+Aimon Ejaz Ansari
+Samiya Batool
+Hiba Akhter
+Ghazanfar Shah Uzair
+
 # 🧠 Document Retriever with FAISS and Sentence Transformers
 
 This project provides a lightweight document retrieval system powered by [Sentence-Transformers](https://www.sbert.net/) and [FAISS](https://github.com/facebookresearch/faiss). It supports searching across `.txt`, `.md` documents using semantic similarity.
