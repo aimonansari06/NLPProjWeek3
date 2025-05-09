@@ -9,9 +9,7 @@ This project provides a lightweight document retrieval system powered by [Senten
 
 ---
 ## 🔧 Installation
-
 Make sure you have Python 3.7+ and install dependencies using pip:
-
 %pip install openai sentence-transformers faiss-cpu hf_xet
 
 ## 🧪 Features
@@ -23,9 +21,9 @@ Make sure you have Python 3.7+ and install dependencies using pip:
 
 ✅ Persistent save/load of index
 
-## 🛠️ Usage
- 🧪 Testing via Script
+## 🧪 Testing via Script
 Run the following in your terminal:
 
 python testfile/create_test_files.py   
+python retriever.py  
 python test_retriever.py  
