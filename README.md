@@ -15,7 +15,7 @@ This project provides a lightweight document retrieval system powered by [Senten
 ---
 
 ## 📁 Project Structure
-![Image Description](filestructure.png)
+![Image Description](projstructure.png)
 
 ---
 ## 🔧 Installation
