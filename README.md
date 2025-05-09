@@ -1,8 +1,12 @@
 # Team GenRetrievers
 Aimon Ejaz Ansari
+---
 Samiya Batool
+---
 Hiba Akhter
+---
 Ghazanfar Shah Uzair
+---
 
 # 🧠 Document Retriever with FAISS and Sentence Transformers
 
